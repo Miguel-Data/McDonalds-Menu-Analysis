@@ -1,0 +1,9 @@
+#Analysing-on-the-McDonalds-Menu-using-Python
+
+Using Python to clean, and prepare data to set up Data Visualizations to see the:
+-Food and beverages that contain the most, carbohydarates, fat, protein, sugar, cholesterol
+-Insight on how Carbohydrates and Sugars are related in the Menu
+-Average Nutrient(% Daily Value) for each Category
+
+
+Python frameworks used: pandas, numpy, seaborn, scipy, matplotlib, plotly
